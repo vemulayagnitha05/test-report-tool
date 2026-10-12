@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy
+matplotlib>=3.7
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
